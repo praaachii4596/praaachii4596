@@ -46,16 +46,16 @@
 
 ### 🏆 Contributions & Trophies
 
+<!-- GITHUB TROPHIES -->
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=praaachii4596&theme=onestar&column=6&margin-w=10&no-frame=true" alt="GitHub Trophies" />
+</p>
+
+
 <!-- CONTRIBUTION SNAKE ANIMATION -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
 </p>
-
-<!-- GITHUB TROPHIES 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=praaachii4596&theme=onestar&column=6&margin-w=10&no-frame=true" alt="GitHub Trophies" />
-</p>
--->
 
 <!-- CONTRIBUTION GRAPH
 <p align="center">
@@ -99,5 +99,4 @@
 
 <p align="center">Made with ❤️ by Prachi Joshi</p>
 
-
-> “I believe in learning by building. Every bug is a stepping stone to something better.”  
+> “I believe in learning by building. Every bug is a stepping stone to something better.”
