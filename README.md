@@ -63,6 +63,21 @@
 </p>
  -->
 
+## 🏅 My Contributor Badges
+
+### Pro GitHub Contributor: GSSOC FAQ Bot Repo
+<img width="200px" height="auto" alt="image" src="https://github.com/user-attachments/assets/1d7de580-cd5b-4845-851d-530c09d086b4" />
+
+*Awarded for contributing to the GSSOC FAQ Bot repository in 2025.*
+
+---
+
+### Other Achievements
+<img width="200px" height="auto" alt="image" src="https://github.com/user-attachments/assets/8338ef48-92d5-4268-8623-af2c813bf282" />
+<img width="200px" height="auto" alt="image" src="https://github.com/user-attachments/assets/1253fb26-9d63-484f-8875-de434f895094" />
+<img width="200px" height="1181" alt="image" src="https://github.com/user-attachments/assets/e0cbd69c-7a25-44d0-a767-dc8c77e27911" />
+
+
 <!--
 ### 🏅 Open Source Activity
 
